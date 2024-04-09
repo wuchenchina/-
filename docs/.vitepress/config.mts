@@ -33,7 +33,8 @@ export default defineConfig({
             text: '写作工具库',
             collapsed: true,
             items: [
-              {text: '公众号', link: '/tools/写作工具库/公众号.md'}
+              {text: '公众号', link: '/tools/写作工具库/公众号.md'},
+              {text: '语雀笔记', link: '/tools/写作工具库/语雀笔记.md'}
             ]
           },
         ]
