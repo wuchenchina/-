@@ -44,7 +44,8 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/wuchenchina/My-Tools-Shanke-/tree/main/docs/:path'
+      pattern: 'https://github.com/wuchenchina/My-Tools-Shanke-/tree/main/docs/:path',
+      text: '在Github修改或提出建议'
     },
 
     socialLinks: [
