@@ -20,7 +20,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '工具集', link: '/tools/' }
+      { text: '工具集', link: '/tools/' },
     ],
 
     sidebar: [
@@ -28,7 +28,14 @@ export default defineConfig({
         text: '工具集',
         items: [
           { text: '引言', link: '/tools/' },
-          { text: '概览', link: '/tools/overview.md' }
+          { text: '概览', link: '/tools/overview.md' },
+          {
+            text: '写作工具库',
+            collapsed: true,
+            items: [
+              {text: '公众号', link: '/tools/写作工具库/公众号.md'}
+            ]
+          },
         ]
       }
     ],
