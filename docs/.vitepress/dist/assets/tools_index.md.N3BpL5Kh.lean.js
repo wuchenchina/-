@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a3 as r}from"./chunks/framework.Dcugq_a2.js";const m=JSON.parse('{"title":"引言","description":"","frontmatter":{},"headers":[],"relativePath":"tools/index.md","filePath":"tools/index.md"}'),p={name:"tools/index.md"},s=r("",8),i=[s];function n(o,c,l,_,d,f){return a(),t("div",null,i)}const E=e(p,[["render",n]]);export{m as __pageData,E as default};
