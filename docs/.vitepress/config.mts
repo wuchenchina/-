@@ -11,7 +11,7 @@ export default defineConfig({
       {
         rel: 'icon',
         type: 'image/x-icon',
-        href: '/images/logo.png'
+        href: 'https://vip.123pan.cn/1831704795/public/%E6%88%91%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1-202404-00/images/logo.png'
       }
     ],
   ],
@@ -52,12 +52,12 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/wuchenchina/My-Tools-Shanke-/tree/main/docs/:path',
+      pattern: 'https://github.com/wuchenchina/My-Tools-Shanke/tree/main/docs/:path',
       text: '在Github修改或提出建议'
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/wuchenchina/My-Tools-Shanke-' }
+      { icon: 'github', link: 'https://github.com/wuchenchina/My-Tools-Shanke' }
     ]
   }
 })

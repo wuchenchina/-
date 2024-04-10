@@ -13,6 +13,6 @@
 介绍：用 AI 技术在网页上实时翻译（网页 PDF 甚至是视频字幕）。这个工具可以做到完全不切换当前页面，且保留原始文本和格式的基础上完成翻译，非常方便。
 
 图示：
-![file](/images/FhRI5vSA1sjaJDLZfJ61i2c-p3KJ.webp)
-![file](/images/Fvnt5FGaDJop22-UWrQy3KJpEGR9.webp)
-![file](/images/FuikeTTfH-Fv5Dl0Rkf-9UYGZwp7.webp)
+![file](https://vip.123pan.cn/1831704795/public/%E6%88%91%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1-202404-00/images/FhRI5vSA1sjaJDLZfJ61i2c-p3KJ.webp)
+![file](https://vip.123pan.cn/1831704795/public/%E6%88%91%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1-202404-00/images/Fvnt5FGaDJop22-UWrQy3KJpEGR9.webp)
+![file](https://vip.123pan.cn/1831704795/public/%E6%88%91%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1-202404-00/images/FuikeTTfH-Fv5Dl0Rkf-9UYGZwp7.webp)
