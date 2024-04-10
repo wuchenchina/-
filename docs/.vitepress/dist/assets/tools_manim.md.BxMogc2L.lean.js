@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,a3 as n}from"./chunks/framework.Dcugq_a2.js";const f=JSON.parse('{"title":"manim","description":"","frontmatter":{},"headers":[],"relativePath":"tools/manim.md","filePath":"tools/manim.md"}'),i={name:"tools/manim.md"},r=n("",7),o=[r];function m(s,l,h,c,_,p){return e(),t("div",null,o)}const u=a(i,[["render",m]]);export{f as __pageData,u as default};

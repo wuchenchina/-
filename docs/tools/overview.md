@@ -7,7 +7,7 @@
 | 公众号 | 公众号自带编辑器 | <https://mp.weixin.qq.com/> |
 | 语雀笔记 | 好用的云文档 | <https://www.yuque.com/> |
 | ProcessOn | ProcessOn	在线流程图绘制 | <https://www.processon.com/> |
-| Adobe Animate | （软件）Flash 动画 | |
+| Adobe Animate | （**软件**）Flash 动画 | |
 | GeoGebra | 在线几何画板和函数绘制 | <https://www.geogebra.org/> |
 | MathJax | 在线渲染 Latex 公式 | <https://www.mathjax.org/> |
 | manim | 数学动画 python 库 | <https://www.manim.community/> |

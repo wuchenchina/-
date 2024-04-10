@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a3 as o}from"./chunks/framework.Dcugq_a2.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tools/template.md","filePath":"tools/template.md"}'),r={name:"tools/template.md"},l=o("",7),s=[l];function n(i,c,h,_,d,p){return a(),e("div",null,s)}const u=t(r,[["render",n]]);export{f as __pageData,u as default};

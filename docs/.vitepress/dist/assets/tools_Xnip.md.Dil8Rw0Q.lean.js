@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a3 as o}from"./chunks/framework.Dcugq_a2.js";const f=JSON.parse('{"title":"Xnip","description":"","frontmatter":{},"headers":[],"relativePath":"tools/Xnip.md","filePath":"tools/Xnip.md"}'),n={name:"tools/Xnip.md"},r=o("",5),i=[r];function s(l,c,h,_,d,p){return e(),a("div",null,i)}const u=t(n,[["render",s]]);export{f as __pageData,u as default};

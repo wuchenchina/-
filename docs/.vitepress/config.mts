@@ -28,13 +28,25 @@ export default defineConfig({
         text: '工具集',
         items: [
           { text: '引言', link: '/tools/' },
-          { text: '概览', link: '/tools/overview.md' },
+          { text: '概览', link: '/tools/overview' },
           {
             text: '写作工具库',
             collapsed: true,
             items: [
-              {text: '公众号', link: '/tools/写作工具库/公众号.md'},
-              {text: '语雀笔记', link: '/tools/写作工具库/语雀笔记.md'}
+              { text: '公众号', link: '/tools/公众号' },
+              { text: '语雀笔记', link: '/tools/语雀笔记' },
+              { text: 'ProcessOn', link: '/tools/ProcessOn' },
+              { text: 'Adobe Animate', link: '/tools/Adobe Animate' },
+              { text: 'GeoGebra', link: '/tools/GeoGebra' },
+              { text: 'MathJax', link: '/tools/MathJax' },
+              { text: 'manim', link: '/tools/manim' },
+              { text: 'Xnip', link: '/tools/Xnip' },
+              { text: 'Gifski', link: '/tools/Gifski' },
+              { text: 'Ctrl + Shift + 5', link: '/tools/Ctrl + Shift + 5' },
+              { text: 'mdnice', link: '/tools/mdnice' },
+              { text: 'ChartCube', link: '/tools/ChartCube' },
+              { text: 'Adobe Illustrator', link: '/tools/Adobe Illustrator' }
+
             ]
           },
         ]

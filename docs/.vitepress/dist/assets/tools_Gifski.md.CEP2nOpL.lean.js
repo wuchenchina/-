@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a3 as i}from"./chunks/framework.Dcugq_a2.js";const m=JSON.parse('{"title":"Gifski","description":"","frontmatter":{},"headers":[],"relativePath":"tools/Gifski.md","filePath":"tools/Gifski.md"}'),s={name:"tools/Gifski.md"},o=i("",5),r=[o];function l(n,c,h,_,d,f){return e(),a("div",null,r)}const p=t(s,[["render",l]]);export{m as __pageData,p as default};

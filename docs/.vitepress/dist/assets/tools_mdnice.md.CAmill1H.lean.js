@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a3 as n}from"./chunks/framework.Dcugq_a2.js";const f=JSON.parse('{"title":"mdnice","description":"","frontmatter":{},"headers":[],"relativePath":"tools/mdnice.md","filePath":"tools/mdnice.md"}'),r={name:"tools/mdnice.md"},i=n("",7),o=[i];function c(d,s,l,h,m,_){return a(),t("div",null,o)}const u=e(r,[["render",c]]);export{f as __pageData,u as default};

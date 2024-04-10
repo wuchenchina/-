@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a3 as r}from"./chunks/framework.Dcugq_a2.js";const u=JSON.parse('{"title":"语雀笔记","description":"","frontmatter":{},"headers":[],"relativePath":"tools/语雀笔记.md","filePath":"tools/语雀笔记.md"}'),o={name:"tools/语雀笔记.md"},s=r("",7),l=[s];function n(i,_,c,h,d,p){return a(),e("div",null,l)}const f=t(o,[["render",n]]);export{u as __pageData,f as default};
